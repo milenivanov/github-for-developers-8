@@ -4,3 +4,4 @@ Bio of Milen Ivanov
 - From: f
 - Favourite food: f
 - Hobby: sky diving
+- Favourite colour: f
